@@ -1,0 +1,9 @@
+{
+  "appId": "com.grau.livre",
+  "appName": "Grau Livre",
+  "webDir": "www",
+  "backgroundColor": "#160f26",
+  "android": {
+    "allowMixedContent": false
+  }
+}
